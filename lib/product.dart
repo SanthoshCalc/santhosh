@@ -20,6 +20,7 @@ class page extends StatefulWidget {
 class _pageState extends State<page> {
   List<String> items = ['Qty:','1','2','3','4'];
   String dropdownvalue = list.first;
+  String car = "black";
 
 
 
